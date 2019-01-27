@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+
+.uno{
+    border: 3px solid #F00;
+    background-color: lightblue;
+}
+
+.dos{
+    border: medium double #369;
+    background-color: yellow;
+}
+
+.tamB{
+    height: 40px;
+    width: 300px;
+}
