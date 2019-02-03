@@ -1,0 +1,15 @@
+.div1{
+    background-color: #a9e2f3;
+    border-top: 10px solid blue; 
+    border-bottom: 5px solid red;
+    height: 120px;
+    width: 70%;
+}
+
+.div2{
+    border: 10px solid green;
+    height: 100px;
+    width: 70%;
+    background-color: #58FA58;
+    text-align: center;
+}
